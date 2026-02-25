@@ -4,6 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        /* Cool colorful gradient background */
+        body {
+            margin: 0;
+            padding: 0;
+            /* a vibrant gradient */
+            background: linear-gradient(135deg, #ff5f6d, #ffc371, #24c6dc, #514a9d);
+            background-size: 400% 400%;
+            animation: gradientBG 15s ease infinite;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+
+        @keyframes gradientBG {
+            0% {background-position: 0% 50%;}
+            50% {background-position: 100% 50%;}
+            100% {background-position: 0% 50%;}
+        }
+    </style>
 </head>
 <body>
     <header>
