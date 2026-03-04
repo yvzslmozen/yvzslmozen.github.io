@@ -4,10 +4,10 @@ h1 {
         }   
     body {   
             padding: 0;
-            background-color: #424646;
+            background-color: #000000;
         }
         header {
-            background-color: #000000;
+            background-color: #454545;
             color: #127891;
             padding: 10px 0;
             text-align: center;
