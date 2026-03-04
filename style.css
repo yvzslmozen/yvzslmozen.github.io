@@ -4,10 +4,10 @@ h1 {
         }   
     body {   
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #424646;
         }
         header {
-            background-color: #333;
+            background-color: #424646;
             color: white;
             padding: 10px 0;
             text-align: center;
@@ -19,7 +19,7 @@ h1 {
             margin-bottom: 20px;
         }
         h2 {
-            color: #333;
+            color: #127891;
         }
         ul {
             list-style-type: square;
